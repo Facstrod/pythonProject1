@@ -1,6 +1,6 @@
 squares = dict()
 
-chislo = int(input('Введите число:'))
+chislo = int(input('Введите числоO:'))
 
 for i in range(1,chislo+1):
     squares[i] = i*i
